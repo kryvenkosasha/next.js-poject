@@ -2,9 +2,9 @@
 
 import React from 'react';
 import { Form, Formik } from 'formik';
-import Button from '../Button/Button';
-import InputField from '../InputField/InputField';
-import LogoUploader from '../LogoUploader/LogoUploader';
+import Button from './Button';
+import InputField from './InputField';
+import LogoUploader from './LogoUploader';
 
 export type CompanyFieldValues = {
   name: string;

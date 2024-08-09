@@ -1,5 +1,5 @@
-import AddCompanyButton from '@/components/AddCompanyButton/AddCompanyButton';
-import StatusLabel, { Status } from '@/components/StatusLabel/StatusLabel';
+import AddCompanyButton from '@/components/AddCompanyButton';
+import StatusLabel, { Status } from '@/components/StatusLabel';
 
 export default function Home() {
   return (
